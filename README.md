@@ -27,13 +27,13 @@ We've provided you with a console that you can use to test your code. To enter a
 
 #### Build the following methods on the `Startup` class
 
-- `Startup#name`
+<!-- - `Startup#name`
   - returns a **string** that is the startup's name
 - `Startup#founder`
   - returns a **string** that is the founder's name
   - Once a startup is created, the founder cannot be changed.
 - `Startup#domain`
-  - returns a **string** that is the startup's domain
+  - returns a **string** that is the startup's domain -->
 - `Startup#pivot`
   - given a string of a **domain** and a string of a **name**, change the domain
     and name of the startup. This is the only public method through which the
