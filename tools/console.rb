@@ -7,5 +7,8 @@ end
 # This is a convenient place to define variables and/or set up new object instances,
 # so they will be available to test and play around with in your console
 
+startup_one = Startup.new("Pizza", "Esma", "Food")
+startup_two = Startup.new("Pants", "Awais", "Clothes")
+startup_three = Startup.new("Box", "Esma", "Storage")
 binding.pry
 0 #leave this here to ensure binding.pry isn't the last line
